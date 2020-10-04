@@ -1,0 +1,71 @@
+Cycles = 4800, Frequency = 50, Amplitude = 0.175 with unlearning
+
+Cycles: 4800    Frequency: 50    Amplitude: 0.175000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 70.900000
+
+Run 1 of 10 complete
+
+
+Cycles: 4800    Frequency: 50    Amplitude: 0.175000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 78.700000
+
+Run 2 of 10 complete
+
+
+Cycles: 4800    Frequency: 50    Amplitude: 0.175000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 67.600000
+
+Run 3 of 10 complete
+
+
+Cycles: 4800    Frequency: 50    Amplitude: 0.175000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 71.700000
+
+Run 4 of 10 complete
+
+
+Cycles: 4800    Frequency: 50    Amplitude: 0.175000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 74.000000
+
+Run 5 of 10 complete
+
+
+Cycles: 4800    Frequency: 50    Amplitude: 0.175000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 69.700000
+
+Run 6 of 10 complete
+
+
+Cycles: 4800    Frequency: 50    Amplitude: 0.175000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 75.700000
+
+Run 7 of 10 complete
+
+
+Cycles: 4800    Frequency: 50    Amplitude: 0.175000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 69.700000
+
+Run 8 of 10 complete
+
+
+Cycles: 4800    Frequency: 50    Amplitude: 0.175000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 73.000000
+
+Run 9 of 10 complete
+
+
+Cycles: 4800    Frequency: 50    Amplitude: 0.175000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 76.000000
+
+Run 10 of 10 complete
+
