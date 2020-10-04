@@ -1,0 +1,71 @@
+Cycles = 0, Frequency = 50, Amplitude = 0.25 with 5 patterns
+
+Cycles: 0    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 53.400000
+
+Run 1 of 10 complete
+
+
+Cycles: 0    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 71.400000
+
+Run 2 of 10 complete
+
+
+Cycles: 0    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 20.000000
+Initial HD: 0.000000           Final HD: 26.600000
+
+Run 3 of 10 complete
+
+
+Cycles: 0    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 20.000000
+Initial HD: 0.000000           Final HD: 25.200000
+
+Run 4 of 10 complete
+
+
+Cycles: 0    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 20.000000
+Initial HD: 0.000000           Final HD: 34.000000
+
+Run 5 of 10 complete
+
+
+Cycles: 0    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 20.000000
+Initial HD: 0.000000           Final HD: 27.400000
+
+Run 6 of 10 complete
+
+
+Cycles: 0    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 48.000000
+
+Run 7 of 10 complete
+
+
+Cycles: 0    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 40.000000
+Initial HD: 0.000000           Final HD: 7.800000
+
+Run 8 of 10 complete
+
+
+Cycles: 0    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 40.000000
+Initial HD: 0.000000           Final HD: 24.000000
+
+Run 9 of 10 complete
+
+
+Cycles: 0    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 27.400000
+
+Run 10 of 10 complete
+

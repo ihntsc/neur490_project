@@ -1,0 +1,71 @@
+Cycles = 4800, Frequency = 200, Amplitude = 0.25 with 5 patterns
+
+Cycles: 4800    Frequency: 200    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 20.000000
+Initial HD: 0.000000           Final HD: 56.400000
+
+Run 1 of 10 complete
+
+
+Cycles: 4800    Frequency: 200    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 20.000000
+Initial HD: 0.000000           Final HD: 57.000000
+
+Run 2 of 10 complete
+
+
+Cycles: 4800    Frequency: 200    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 20.000000
+Initial HD: 0.000000           Final HD: 61.400000
+
+Run 3 of 10 complete
+
+
+Cycles: 4800    Frequency: 200    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 20.000000
+Initial HD: 0.000000           Final HD: 56.200000
+
+Run 4 of 10 complete
+
+
+Cycles: 4800    Frequency: 200    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 20.000000
+Initial HD: 0.000000           Final HD: 54.800000
+
+Run 5 of 10 complete
+
+
+Cycles: 4800    Frequency: 200    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 20.000000
+Initial HD: 0.000000           Final HD: 58.000000
+
+Run 6 of 10 complete
+
+
+Cycles: 4800    Frequency: 200    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 20.000000
+Initial HD: 0.000000           Final HD: 59.400000
+
+Run 7 of 10 complete
+
+
+Cycles: 4800    Frequency: 200    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 20.000000
+Initial HD: 0.000000           Final HD: 58.200000
+
+Run 8 of 10 complete
+
+
+Cycles: 4800    Frequency: 200    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 20.000000
+Initial HD: 0.000000           Final HD: 56.200000
+
+Run 9 of 10 complete
+
+
+Cycles: 4800    Frequency: 200    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 20.000000
+Initial HD: 0.000000           Final HD: 58.000000
+
+Run 10 of 10 complete
+
