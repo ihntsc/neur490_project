@@ -1,0 +1,81 @@
+Cycles = 0, Frequency = 50, Amplitude = 0.25
+
+HDs after interference:  [68. 64.  3. 60. 51. 84. 24. 39. 77. 70.]
+Cycles: 0    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 54.000000
+
+Run 1 of 10 complete
+
+
+HDs after interference:  [86. 58. 60. 59. 70. 58. 23. 82. 51. 60.]
+Cycles: 0    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 60.700000
+
+Run 2 of 10 complete
+
+
+HDs after interference:  [60. 78. 77. 50. 85. 63. 79. 85. 67. 75.]
+Cycles: 0    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 71.900000
+
+Run 3 of 10 complete
+
+
+HDs after interference:  [66. 35. 54. 49. 63. 65. 72. 54. 67. 43.]
+Cycles: 0    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 56.800000
+
+Run 4 of 10 complete
+
+
+HDs after interference:  [72. 54. 70. 81. 32. 74. 95. 63. 60. 76.]
+Cycles: 0    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 67.700000
+
+Run 5 of 10 complete
+
+
+HDs after interference:  [58. 71. 55. 66. 56.  1.  2.  2. 62. 48.]
+Cycles: 0    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 42.100000
+
+Run 6 of 10 complete
+
+
+HDs after interference:  [69. 59. 42. 65. 61. 79. 48. 72. 51. 11.]
+Cycles: 0    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 55.700000
+
+Run 7 of 10 complete
+
+
+HDs after interference:  [83. 70. 54. 81. 68. 63. 85. 76. 97.  9.]
+Cycles: 0    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 68.600000
+
+Run 8 of 10 complete
+
+
+HDs after interference:  [ 64.  90.  69. 102. 102.  73.  78.  70.  81.  77.]
+Cycles: 0    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 80.600000
+
+Run 9 of 10 complete
+
+
+HDs after interference:  [62. 44. 67. 46. 39.  0. 68. 14. 67.  0.]
+Cycles: 0    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 20.000000
+Initial HD: 0.000000           Final HD: 40.700000
+
+Run 10 of 10 complete
+

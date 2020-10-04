@@ -1,0 +1,80 @@
+Cycles = 9200, Frequency = 50, Amplitude = 0.25
+
+Cycles: 9200    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 10.000000
+Initial HD: 0.000000           Final HD: 62.900000
+
+Run 1 of 10 complete
+
+Cycles = 9200, Frequency = 50, Amplitude = 0.25
+
+Cycles: 9200    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 10.000000
+Initial HD: 0.000000           Final HD: 67.500000
+
+Run 2 of 10 complete
+
+Cycles = 9200, Frequency = 50, Amplitude = 0.25
+
+Cycles: 9200    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 10.000000
+Initial HD: 0.000000           Final HD: 67.000000
+
+Run 3 of 10 complete
+
+Cycles = 9200, Frequency = 50, Amplitude = 0.25
+
+Cycles: 9200    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 10.000000
+Initial HD: 0.000000           Final HD: 66.900000
+
+Run 4 of 10 complete
+
+Cycles = 9200, Frequency = 50, Amplitude = 0.25
+
+Cycles: 9200    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 10.000000
+Initial HD: 0.000000           Final HD: 62.100000
+
+Run 5 of 10 complete
+
+Cycles = 9200, Frequency = 50, Amplitude = 0.25
+
+Cycles: 9200    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 10.000000
+Initial HD: 0.000000           Final HD: 65.500000
+
+Run 6 of 10 complete
+
+Cycles = 9200, Frequency = 50, Amplitude = 0.25
+
+Cycles: 9200    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 10.000000
+Initial HD: 0.000000           Final HD: 67.200000
+
+Run 7 of 10 complete
+
+Cycles = 9200, Frequency = 50, Amplitude = 0.25
+
+Cycles: 9200    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 0.000000
+Initial HD: 0.000000           Final HD: 63.000000
+
+Run 8 of 10 complete
+
+Cycles = 9200, Frequency = 50, Amplitude = 0.25
+
+Cycles: 9200    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 10.000000
+Initial HD: 0.000000           Final HD: 64.100000
+
+Run 9 of 10 complete
+
+Cycles = 9200, Frequency = 50, Amplitude = 0.25
+
+Cycles: 9200    Frequency: 50    Amplitude: 0.250000
+Initial accuracy: 100.000000     Final accuracy: 10.000000
+Initial HD: 0.000000           Final HD: 65.400000
+
+Run 10 of 10 complete
+
